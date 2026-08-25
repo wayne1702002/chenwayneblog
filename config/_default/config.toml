@@ -2,6 +2,7 @@
 baseurl = "https://chenwayneblog.com/"
 locale = "zh-tw"
 title = "陳偉的部落格"
+googleAnalytics = "G-8ZBPCCF5XV"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
@@ -16,3 +17,4 @@ disqusShortname = ""
 
 [pagination]
     pagerSize = 5
+
